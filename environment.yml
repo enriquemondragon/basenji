@@ -28,6 +28,7 @@ dependencies:
   - seaborn
   - statsmodels
   - tabulate
+  - pip
   - pip:
     - cooler
     - cooltools
